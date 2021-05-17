@@ -8,8 +8,8 @@ function gestionarFicheroXML(xmlDoc){
 	}
 }
 
-setInterval(CargarFichero,5000)
 function CargarFichero()
 {
 	loadDocA("whatsapp.xml","xml")
 }
+setInterval(CargarFichero,5000)
