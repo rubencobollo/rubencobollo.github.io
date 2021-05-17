@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-15"?> 
+<whatsapp>
+	<conversacion>
+		<nombre>Conversación con Pepito</nombre>
+		<mensaje1> 
+			<chat>Hola Rubén!</chat> 
+		</mensaje1>
+		<mensaje2> 
+			<chat>Hola Pepito!</chat> 
+		</mensaje2>
+		<mensaje1> 
+			<chat>¿Que tal?</chat> 
+		</mensaje1>
+		<mensaje2> 
+			<chat>Todo bien, y tu?</chat> 
+		</mensaje2>
+		<mensaje1> 
+			<chat>Yo tambien estoy bien.</chat> 
+		</mensaje1>
+		<mensaje2> 
+			<chat>Me alegro.</chat> 
+		</mensaje2>
+	</conversacion>
+</whatsapp>
