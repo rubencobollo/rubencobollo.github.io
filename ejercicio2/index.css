@@ -1,3 +1,8 @@
+chat {
+  border: 1px solid #000;
+  border-radius: 2px;
+  background-color: lightyellow;
+  }
 
 mensaje1 {
   border: 1px solid #000;
