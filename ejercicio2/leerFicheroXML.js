@@ -3,7 +3,7 @@ function gestionarFicheroXML(xmlDoc){
 	let whatsapp = xmlDoc.querySelectorAll("conversacion")
 	for(let i=0; i<whatsapp.length; i++)
 	{
-			capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + conversacion[i].textContent + "</p>"
+			capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + whatsapp[i].textContent + "</p>"
 	}
 }
 
