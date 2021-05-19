@@ -1,10 +1,11 @@
-.mensaje1 {
+
+mensaje1 {
   border: 1px solid #000;
   border-radius: 2px;
   background-color: lightyellow;
   }
 
-.mensaje2{
+mensaje2{
   border: 1px solid #000;
   border-radius: 2px;
   background-color: lightgreen;
