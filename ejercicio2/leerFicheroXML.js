@@ -1,7 +1,6 @@
 function gestionarFicheroXML(xmlDoc){
 	let capaVacia = document.querySelector("#ficheroXML")
 	capaVacia.innerHTML =""
-	//let whatsapp = xmlDoc.querySelectorAll("conversacion")
 	let emisor = xmlDoc.querySelectorAll("mensaje1")
 	let receptor = xmlDoc.querySelectorAll("mensaje2")
 	for(let i=0; i<emisor.length; i++)
