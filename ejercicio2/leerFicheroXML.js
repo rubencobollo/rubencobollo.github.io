@@ -5,8 +5,8 @@ function gestionarFicheroXML(xmlDoc){
 	let receptor = xmlDoc.querySelectorAll("mensaje2")
 	for(let i=0; i<emisor.length; i++)
 	{
-		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + emisor[i].textContent + "</p>"
-		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + receptor[i].textContent + "</p>"
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='mensaje1'>" + emisor[i].textContent + "</p>"
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='mensaje2'>" + receptor[i].textContent + "</p>"
 
 	}
 }
