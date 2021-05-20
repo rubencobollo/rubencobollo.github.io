@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <whatsapp>
-		<mensaje1> 
-			<chat>Hola Ruben!</chat> 
-		</mensaje1>
-		<mensaje2> 
-			<chat>Hola Pepito!</chat> 
-		</mensaje2>
-		<mensaje1> 
-			<chat>Que tal?</chat> 
-		</mensaje1>
-		<mensaje2> 
-			<chat>Todo bien, y tu?</chat> 
-		</mensaje2>
-		<mensaje1> 
-			<chat>Yo tambien estoy bien.</chat> 
-		</mensaje1>
-		<mensaje2> 
-			<chat>Me alegro.</chat> 
-		</mensaje2>
+		<mensaje1>Hola Ruben!</mensaje1>
+		<mensaje2>Hola Pepito!</mensaje2>
+		<mensaje1>Que tal?</mensaje1>
+		<mensaje2>Todo bien, y tu?</mensaje2>
+		<mensaje1>Yo tambien estoy bien.</mensaje1>
+		<mensaje2>Me alegro.</mensaje2>
 </whatsapp>
