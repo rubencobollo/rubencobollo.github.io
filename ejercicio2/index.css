@@ -8,6 +8,7 @@
 
 .mensaje2{
   left: 40px;
+  align-content: end;
   width: 15%;
   border: 2px solid #000;
   border-radius: 6px;
