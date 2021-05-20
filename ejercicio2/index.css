@@ -1,5 +1,5 @@
 .mensaje1 {
-  width: auto;
+  width: 30px;
   border: 2px solid #000;
   border-radius: 6px;
   padding: 2px;
@@ -7,7 +7,7 @@
   }
 
 .mensaje2{
-  width: auto;
+  width: 40px;
   border: 2px solid #000;
   border-radius: 6px;
   padding: 2px;
