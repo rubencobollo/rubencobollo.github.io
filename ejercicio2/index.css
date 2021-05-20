@@ -1,12 +1,12 @@
 .mensaje1 {
-  display: block;
-  border: 1px solid #000;
+  display: inline-block;
+  border: 2px solid #000;
   border-radius: 6px;
   background-color: lightyellow;
   }
 
 .mensaje2{
-  display: block;
+  display: inline-block;
   border: 2px solid #000;
   border-radius: 6px;
   background-color: lightgreen;
