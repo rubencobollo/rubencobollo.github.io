@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <whatsapp>
-	<conversacion>
 		<mensaje1> 
 			<chat>Hola Ruben!</chat> 
 		</mensaje1>
@@ -19,5 +18,4 @@
 		<mensaje2> 
 			<chat>Me alegro.</chat> 
 		</mensaje2>
-	</conversacion>
 </whatsapp>
