@@ -11,7 +11,7 @@
 .mensaje2{
   display: flex;
   justify-content: flex-end;
-  width: 5%;
+  width: 10%;
   margin-left: 100px;
   border: 2px solid #000;
   border-radius: 6px;
